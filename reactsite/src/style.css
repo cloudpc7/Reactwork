@@ -50,6 +50,10 @@ main {
   color: #FFFFFF;
   padding: 57px 27px;
   height: 550px;
+  background-image: url(../images/react-icon-large.png);
+  background-repeat: no-repeat;
+  background-position: right 50%;
+
 }
 
 main h1 {
